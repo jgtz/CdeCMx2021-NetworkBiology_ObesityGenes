@@ -1,4 +1,4 @@
-# CdeCMx2020-NetworkBiology Challenge
+# CdeCMx2021 Club 7: Atacando genes asociados con la obesidad
 
 This repository contains the Jupyter notebooks, networks, and other files for the CdeCMx 2021 "Club 7: Atacando genes asociados con la obesidad".
 
